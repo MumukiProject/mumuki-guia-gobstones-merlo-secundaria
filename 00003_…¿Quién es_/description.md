@@ -12,4 +12,4 @@ GBB/1.0
      head 0 0
 </gs-board>
 
-> Dado el tablero anterior, modificá el programa para que también pase por las casas que están en la fila de arriba, terminando en la de arriba a la derecha. ¡No te olvides de apagar la luz!
+> Dado el tablero anterior, modificá el programa para que también pase por las casas que están en la fila de arriba, terminando en la de arriba a la izquierda. ¡No te olvides de apagar la luz!
