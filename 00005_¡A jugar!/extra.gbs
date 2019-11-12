@@ -1,5 +1,5 @@
 procedure ApagarLuzDeLaCasa() {
-  if(hayBolitas(Verde) {
+  if(hayBolitas(Verde)) {
     Sacar(Verde)
   }
 }
