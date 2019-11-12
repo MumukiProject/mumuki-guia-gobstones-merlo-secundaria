@@ -1,0 +1,1 @@
+Valen vive en _Villa de Merlo_, una ciudad que se ubica al Noreste de la Provincia de San Luis y es uno de los principales centros turísticos de Argentina. Los fines de semana le gusta salir con sus amigas y amigos a jugar. ¡Vamos!
