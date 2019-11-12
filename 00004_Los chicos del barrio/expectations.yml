@@ -1,0 +1,14 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Declares:PasarABuscarPorElBarrio
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:PasarABuscarPorElBarrio
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PasarABuscarPorElBarrio
+  inspection: Uses:ApagarLuzDeLaCasa
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Intransitive:program
+  inspection: Not:Uses:ApagarLuzDeLaCasa
