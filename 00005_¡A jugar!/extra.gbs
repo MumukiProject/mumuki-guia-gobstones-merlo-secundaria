@@ -1,0 +1,15 @@
+procedure ApagarLuzDeLaCasa() {
+  if(hayBolitas(Verde) {
+    Sacar(Verde)
+  }
+}
+
+procedure PasarABuscarPorElBarrio() {
+  ApagarLuzDeLaCasa()
+  Mover(Este)
+  ApagarLuzDeLaCasa()
+  Mover(Norte)
+  ApagarLuzDeLaCasa()
+  Mover(Oeste)
+  ApagarLuzDeLaCasa()
+}

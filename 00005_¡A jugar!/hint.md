@@ -1,0 +1,1 @@
+No te olvides que `PasarABuscarPorElBarrio` recorre 4 casilleros.
