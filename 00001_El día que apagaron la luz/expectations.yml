@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Declares:ApagarLuzDeLaCasa
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:ApagarLuzDeLaCasa
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ApagarLuzDeLaCasa
+  inspection: UsesIf
