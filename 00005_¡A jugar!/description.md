@@ -18,4 +18,4 @@ GBB/1.0
      head 0 0
 </gs-board>
 
-> Dado el tablero anterior, armá el programa para que Valen recorra todos los barrios apagando las luces. 
+> Dado el tablero anterior, armá el programa para que Valen recorra todos los barrios apagando las luces y terminando en el casillero de arriba a la izquierda.
