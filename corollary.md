@@ -1,1 +1,3 @@
 ¡Excelente! Las chicas y chicos de Merlo se pudieron reunir a jugar con Valen gracias a tu ayuda :grin:. Como recompensa nos contaron que allí nació _Antonio Agüero_, un exitoso poeta que se vió inspirado por el algarrobo para crear la “Cantata del Algarrobo Abuelo” :pencil:. ¡Sigamos recorriendo la Provincia!
+
+:park: **¡Manos a la maqueta! Sacá tu turno [acá](http://ingreso.maqueta.sanluis.edu.ar/).**
